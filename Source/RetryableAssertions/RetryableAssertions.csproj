@@ -1,14 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <TargetFrameworks>net45;netstandard2.0</TargetFrameworks>
     <AssemblyName>Kontur.RetryableAssertions</AssemblyName>
     <Authors>Kontur</Authors>
     <Company>Kontur</Company>
     <Product>Kontur.RetryableAssertions</Product>
     <RootNamespace>Kontur.RetryableAssertions</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>0.0.1.0</Version>
+    <Version>0.0.2.0-alfa</Version>
     <LangVersion>latest</LangVersion>
-    <TargetFramework>net45</TargetFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>..\..\Build\Lib\</OutputPath>
