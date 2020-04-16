@@ -7,7 +7,7 @@
     <Product>Kontur.RetryableAssertions</Product>
     <RootNamespace>Kontur.RetryableAssertions</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>0.0.2.0-alfa</Version>
+    <Version>0.0.2-alpha</Version>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
