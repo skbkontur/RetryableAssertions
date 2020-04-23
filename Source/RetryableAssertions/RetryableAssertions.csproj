@@ -6,7 +6,7 @@
     <Product>Kontur.RetryableAssertions</Product>
     <RootNamespace>Kontur.RetryableAssertions</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>0.0.1.0</Version>
+    <Version>0.0.2-alpha</Version>
     <LangVersion>latest</LangVersion>
     <TargetFramework>net45</TargetFramework>
   </PropertyGroup>
